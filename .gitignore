@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+output/
+outputs/
+*.log
+*.tmp
+*.xlsx
+*.csv
+*.png
+.DS_Store
+Thumbs.db

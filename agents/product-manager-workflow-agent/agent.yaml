@@ -1,0 +1,19 @@
+id: amazon-product-manager-workflow-agent
+name: Amazon Product Manager Workflow Agent
+version: 1.0.0
+language: multilingual
+entrypoint: AGENT.md
+primary_skill: ../../skills/amazon-product-manager/SKILL.md
+recommended_use:
+  - Amazon market screening
+  - Product selection
+  - Competitor response
+  - Launch planning
+  - Profit rescue
+  - Growth review
+  - Stop-loss decisions
+important_paths:
+  skill: ../../skills/amazon-product-manager/SKILL.md
+  market_screening: ../../skills/amazon-product-manager/references/market-screening-framework.md
+  decision_framework: ../../skills/amazon-product-manager/references/amazon-decision-framework.md
+  templates: ../../skills/amazon-product-manager/references/amazon-pm-templates.md

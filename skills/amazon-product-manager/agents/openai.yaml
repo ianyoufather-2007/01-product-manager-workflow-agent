@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Product Manager"
+  short_description: "Screen Amazon markets and make product decisions across selection, launch, growth, profit, and inventory."
+  default_prompt: "Use $amazon-product-manager to screen an Amazon market, choose the best wedge, and produce the decision, evidence, action plan, metrics, and risks."
