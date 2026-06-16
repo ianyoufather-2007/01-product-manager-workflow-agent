@@ -2,6 +2,8 @@
 
 这是一个给 Codex / AI Agent 使用的 Amazon 产品经理决策 skill。
 
+本仓库是 agent 级工作流包装版；核心 skill 仓库在：[amazon-product-manager-skill](https://github.com/ianyoufather-2007/amazon-product-manager-skill)。
+
 它不是爬虫，也不是“自动出爆品”的工具。它更像是一套可复用的 AI 产品经理工作流，用来把 Amazon 选品、市场筛选、Launch、利润修复、库存风险和 Go / No-Go 决策变得更结构化。
 
 ## 适合谁

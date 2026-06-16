@@ -4,9 +4,21 @@ A standalone agent package for Amazon marketplace product decisions. It wraps th
 
 中文说明: [docs/README.zh-CN.md](docs/README.zh-CN.md)
 
+Core skill repository: [amazon-product-manager-skill](https://github.com/ianyoufather-2007/amazon-product-manager-skill)
+
 This project is designed for small Amazon sellers and lean product teams that need product-manager discipline without large-company overhead. It helps an AI agent convert incomplete marketplace evidence into explicit decisions, metrics, next actions, and risks.
 
 If you only want the reusable Codex skill, see the core skill in `skills/amazon-product-manager/`. If you want an agent-level workflow wrapper, start from `agents/product-manager-workflow-agent/AGENT.md`.
+
+## Relationship To The Core Skill
+
+This repository is the agent-level wrapper. It includes:
+
+- `agents/product-manager-workflow-agent/AGENT.md` as the workflow entrypoint.
+- `agents/product-manager-workflow-agent/SKILL_INDEX.md` as the routing index.
+- A bundled copy of `skills/amazon-product-manager/` so the agent can work as a standalone package.
+
+The core skill continues to live in the separate repository: [amazon-product-manager-skill](https://github.com/ianyoufather-2007/amazon-product-manager-skill).
 
 ## What It Does
 
