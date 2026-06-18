@@ -2,6 +2,12 @@
 
 This project is early-stage and will be improved through small, visible releases.
 
+## Current Positioning
+
+This repository is kept as the lightweight workflow wrapper for the core `amazon-product-manager` skill. New users who want PM triage plus QYPM-style stage routing should start from [amazon-pm-integrated-agent](https://github.com/ianyoufather-2007/amazon-pm-integrated-agent).
+
+Future changes here should stay focused on wrapper clarity, compatibility with the core skill, and simple examples. More complex stage-gate routing should live in the integrated agent repository.
+
 ## Week 1: Make The Skill Easy To Try
 
 - Add a Chinese README section.

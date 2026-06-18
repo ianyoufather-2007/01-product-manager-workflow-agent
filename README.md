@@ -6,6 +6,10 @@ A standalone agent package for Amazon marketplace product decisions. It wraps th
 
 Core skill repository: [amazon-product-manager-skill](https://github.com/ianyoufather-2007/amazon-product-manager-skill)
 
+Recommended for new users: [amazon-pm-integrated-agent](https://github.com/ianyoufather-2007/amazon-pm-integrated-agent)
+
+This repository remains useful as a lightweight agent wrapper around the core skill. If you want the newer integrated routing layer that combines PM triage with QYPM-style stage gates, start with `amazon-pm-integrated-agent`.
+
 This project is designed for small Amazon sellers and lean product teams that need product-manager discipline without large-company overhead. It helps an AI agent convert incomplete marketplace evidence into explicit decisions, metrics, next actions, and risks.
 
 If you only want the reusable Codex skill, see the core skill in `skills/amazon-product-manager/`. If you want an agent-level workflow wrapper, start from `agents/product-manager-workflow-agent/AGENT.md`.
@@ -19,6 +23,8 @@ This repository is the agent-level wrapper. It includes:
 - A bundled copy of `skills/amazon-product-manager/` so the agent can work as a standalone package.
 
 The core skill continues to live in the separate repository: [amazon-product-manager-skill](https://github.com/ianyoufather-2007/amazon-product-manager-skill).
+
+For new public examples and stage-gate routing, see [amazon-pm-integrated-agent](https://github.com/ianyoufather-2007/amazon-pm-integrated-agent).
 
 ## What It Does
 

@@ -1,0 +1,12 @@
+# Changelog
+
+## 0.1.1 - 2026-06-18
+
+- Clarified that this repository is the lightweight workflow wrapper.
+- Added a recommendation for new users to start with `amazon-pm-integrated-agent` when they need integrated PM triage and QYPM-style stage routing.
+- Added this changelog to make future maintenance easier to track.
+
+## 0.1.0 - 2026-06-16
+
+- Published the initial standalone product manager workflow agent package.
+- Added agent entrypoint, skill index, bundled core skill, examples, documentation, roadmap, contribution guide, and security policy.
