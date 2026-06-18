@@ -1,9 +1,14 @@
 # Changelog
 
+## 0.1.2 - 2026-06-18
+
+- Added a quick-start example for the agent wrapper.
+- Replaced a public README/changelog reference to internal workflow wording with generic stage-gate wording.
+
 ## 0.1.1 - 2026-06-18
 
 - Clarified that this repository is the lightweight workflow wrapper.
-- Added a recommendation for new users to start with `amazon-pm-integrated-agent` when they need integrated PM triage and QYPM-style stage routing.
+- Added a recommendation for new users to start with `amazon-pm-integrated-agent` when they need integrated PM triage and stage-gate routing.
 - Added this changelog to make future maintenance easier to track.
 
 ## 0.1.0 - 2026-06-16

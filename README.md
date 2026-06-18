@@ -8,7 +8,7 @@ Core skill repository: [amazon-product-manager-skill](https://github.com/ianyouf
 
 Recommended for new users: [amazon-pm-integrated-agent](https://github.com/ianyoufather-2007/amazon-pm-integrated-agent)
 
-This repository remains useful as a lightweight agent wrapper around the core skill. If you want the newer integrated routing layer that combines PM triage with QYPM-style stage gates, start with `amazon-pm-integrated-agent`.
+This repository remains useful as a lightweight agent wrapper around the core skill. If you want the newer integrated routing layer that combines PM triage with a structured stage-gate workflow, start with `amazon-pm-integrated-agent`.
 
 This project is designed for small Amazon sellers and lean product teams that need product-manager discipline without large-company overhead. It helps an AI agent convert incomplete marketplace evidence into explicit decisions, metrics, next actions, and risks.
 
@@ -86,7 +86,7 @@ Restart Codex after installing the skill.
 Use $amazon-product-manager to evaluate whether I should enter the coffee capsule holder market on Amazon US. I have a small brand, limited launch budget, and can source metal or bamboo products. Give me an Enter/Watch/Avoid decision, evidence needed, first wedge, risks, and next actions.
 ```
 
-More examples are in `examples/`.
+More examples are in `examples/`, including [examples/agent-quick-start.md](examples/agent-quick-start.md).
 
 ## Data And Privacy
 
