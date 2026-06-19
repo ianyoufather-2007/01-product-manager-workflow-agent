@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3 - 2026-06-19
+
+- Added GitHub issue templates for documentation improvements and workflow requests.
+- Added a pull request template with agent-impact and privacy-review checklists.
+
 ## 0.1.2 - 2026-06-18
 
 - Added a quick-start example for the agent wrapper.
