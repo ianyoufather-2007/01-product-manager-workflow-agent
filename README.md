@@ -1,5 +1,9 @@
 # 01 Product Manager Workflow Agent
 
+[![Release](https://img.shields.io/github/v/release/ianyoufather-2007/01-product-manager-workflow-agent?display_name=tag)](https://github.com/ianyoufather-2007/01-product-manager-workflow-agent/releases)
+[![License](https://img.shields.io/github/license/ianyoufather-2007/01-product-manager-workflow-agent)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/ianyoufather-2007/01-product-manager-workflow-agent)](https://github.com/ianyoufather-2007/01-product-manager-workflow-agent/issues)
+
 A standalone agent package for Amazon marketplace product decisions. It wraps the `amazon-product-manager` Codex skill with an agent entrypoint, skill index, examples, and documentation for market screening, product selection, launch planning, profit repair, growth review, inventory risk, and stop-loss calls.
 
 中文说明: [docs/README.zh-CN.md](docs/README.zh-CN.md)

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 - 2026-06-19
+
+- Added README badges for release, license, and open issues.
+
 ## 0.1.4 - 2026-06-19
 
 - Added `CODE_OF_CONDUCT.md` for public collaboration expectations.
