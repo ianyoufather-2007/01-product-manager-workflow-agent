@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4 - 2026-06-19
+
+- Added `CODE_OF_CONDUCT.md` for public collaboration expectations.
+- Added `SUPPORT.md` with safe support and privacy guidance.
+
 ## 0.1.3 - 2026-06-19
 
 - Added GitHub issue templates for documentation improvements and workflow requests.
