@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.7 - 2026-06-22
+
+- Synchronized the bundled core skill with the public stage-gate workflow reference.
+- Linked the stage-gate workflow from the wrapper README.
+
 ## 0.1.6 - 2026-06-19
 
 - Fixed mojibake in the README Chinese quick-start link.
