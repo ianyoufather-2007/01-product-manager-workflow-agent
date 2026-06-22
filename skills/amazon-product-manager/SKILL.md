@@ -91,6 +91,8 @@ Load `references/amazon-decision-framework.md` when the user asks whether to ent
 
 Load `references/market-screening-framework.md` when the user asks what market, category, niche, product line, price band, or scenario to choose, or when the request is earlier than single-product selection.
 
+Load `references/stage-gate-workflow.md` when the user asks for an advanced stage-gate workflow, staged product validation, product pipeline, repeatable agent workflow, or a step-by-step path from loose idea to Go / No-Go / stop-loss decision.
+
 ## Optional Data Integration
 
 When the user provides structured screening output, load it before making a decision. Useful inputs include keyword clusters, ASIN tables, review summaries, price bands, COGS/FBA estimates, PPC metrics, sell-through, inventory cover, and launch constraints.
