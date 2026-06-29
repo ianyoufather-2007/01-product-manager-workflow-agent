@@ -17,6 +17,7 @@ Use its references when the request requires more structure:
 - `skills/amazon-product-manager/references/market-screening-framework.md`
 - `skills/amazon-product-manager/references/amazon-decision-framework.md`
 - `skills/amazon-product-manager/references/amazon-pm-templates.md`
+- `skills/amazon-product-manager/references/profit-rescue-checklist.md` — use when the request is about recovering margin, reducing ACoS, or deciding whether to rework or kill a product
 
 ## Workflow
 
